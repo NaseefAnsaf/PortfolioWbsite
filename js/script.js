@@ -59,7 +59,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-  strings: ['Data Analyst', 'Business Analyst', 'PowerBI Developer', 'Freelancer'],
+  strings: ['Data Analyst', 'Business Analyst', 'BI Developer', 'Freelancer'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
